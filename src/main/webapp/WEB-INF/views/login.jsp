@@ -16,7 +16,7 @@
 
 
 <div class="container">
-    <h1 style="text-align: center;">What to do next ? </h1>
+    <h1 style="text-align: center;">What to do best ? </h1>
     <form action="/login" method="POST" class="form-group d-inline">
         <input type="text" name="name" placeholder="Username : " class="form-control">
         <br>
